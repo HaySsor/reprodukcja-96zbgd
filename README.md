@@ -19,4 +19,6 @@ Pamiętaj - to nauka, więc unikaj drogi na skróty:
 * nie modyfikuj struktury kodu HTML
 * nie modyfikuj styli CSS
 * nie kopiuj oryginału i nie wklejaj go w miejscep płótna ;)
-* live https://stackblitz.com/edit/reprodukcja-96zbgd?file=index.js
+
+
+live https://stackblitz.com/edit/reprodukcja-96zbgd?file=index.js
